@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS sheeps;
+DROP TYPE wool;
